@@ -6,6 +6,8 @@ Laravel Breeze Magical Link is a project that combines the simplicity of Laravel
 
 This approach eliminates the need for traditional passwords, using email-based tokens for secure user authentication.
 
+![breeze1](https://github.com/aldiandarwin/breeze-passwordles/assets/70283015/4e8bc2a0-a937-4752-9b7b-ae167eadf94b)
+
 ## Tech Stack
 
 Laravel 10
@@ -98,6 +100,8 @@ Enter the registered email address.
 Check your email for the magical login link.
 
 Click the link to authenticate and access the application.
+
+![breeze2](https://github.com/aldiandarwin/breeze-passwordles/assets/70283015/0035e20c-5696-4369-a084-6c230beeaada)
 
 ## Conclusion
 
